@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on E-commerce<br><br>🌱 I’m currently learning Typescript,SQL<br><br>👨‍💻 All of my projects are available at https://github.com/TarakaYalakala<br><br>📝 I regularly write articles on Linkedin<br><br>💬 Ask me about Reactjs,Nodejs<br><br>📫 How to reach me tarakayalakala@gmail.com<br><br>⚡ Fun fact I love cars
+ I’m currently working on E-commerce<br><br>🌱 I’m currently learning Typescript,SQL<br><br>👨‍💻 All of my projects are available at https://github.com/TarakaYalakala<br><br>📝 I regularly write articles on Linkedin<br><br>💬 Don't Ask me about Anything<br><br>📫 How to reach me tarakayalakala@gmail.com<br><br>⚡ Fun fact I love cars
 
 
 ## 🌐 Socials:
