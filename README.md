@@ -2,8 +2,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TarakaYalakala/TarakaYalakala/main/giflanda.gif">
 
-🔭 **I’m currently Looking for a Job**<br><br>
-
 🌱 **I’m currently learning** Typescript, SQL, Java, Spring Boot<br><br>
 
 👨‍💻 **All of my projects are available at**  
