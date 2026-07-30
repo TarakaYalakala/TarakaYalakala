@@ -14,8 +14,6 @@ https://github.com/TarakaYalakala<br><br>
 📫 **How to reach me**  
 **tarakayalakala@gmail.com**<br><br>
 
-⚡ **Fun fact:** I love cars 🚗
-
 <br clear="right"/>
 
 ---
