@@ -1,6 +1,25 @@
-# 💫 About Me:
- I’m currently Looking for a Job<br><br>🌱 I’m currently learning Typescript,SQL,Java,Spring boot<br><br>👨‍💻 All of my projects are available at https://github.com/TarakaYalakala<br><br><br><br>💬 Don't Ask me about Anything<br><br>📫 How to reach me tarakayalakala@gmail.com<br><br>⚡ Fun fact I love cars
+```md
+# 💫 About Me
 
+<p align="left">
+  <img align="right" alt="Coding" width="350" src="giflanda.gif">
+
+🔭 **I’m currently Looking for a Job**
+
+🌱 **I’m currently learning** Typescript, SQL, Java, Spring Boot
+
+👨‍💻 **All of my projects are available at**  
+https://github.com/TarakaYalakala
+
+💬 **Don't Ask me about Anything**
+
+📫 **How to reach me**  
+tarakayalakala@gmail.com
+
+⚡ **Fun fact:** I love cars
+</p>
+
+<br clear="right"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tarak_1_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taraka-y-aa3624255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23695937/taraka-yalakala) 
