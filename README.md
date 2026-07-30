@@ -7,7 +7,7 @@
 👨‍💻 **All of my projects are available at**  
 https://github.com/TarakaYalakala<br><br>
 
-💬 **Don't Ask me about Anything**<br><br>
+💬 **Follow **<br><br>
 
 📫 **How to reach me**  
 **tarakayalakala@gmail.com**<br><br>
