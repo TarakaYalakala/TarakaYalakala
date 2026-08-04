@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TarakaYalakala/TarakaYalakala/main/giflanda.gif">
 
-🌱 **I’m currently learning** Typescript, SQL, Java, Spring Boot<br><br>
+🌱 **I’m currently learning**<br><br>
 
 👨‍💻 **All of my projects are available at**  
 https://github.com/TarakaYalakala<br><br>
