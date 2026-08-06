@@ -67,10 +67,3 @@ https://github.com/TarakaYalakala<br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=TarakaYalakala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=TarakaYalakala&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=TarakaYalakala&icon=0&color=0)](https://visitcount.itsvg.in)
