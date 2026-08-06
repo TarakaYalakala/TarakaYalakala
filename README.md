@@ -48,12 +48,6 @@ https://github.com/TarakaYalakala<br><br>
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarakaYalakala&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarakaYalakala&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
 
 ## 📈 Contribution Graph
 
