@@ -61,9 +61,4 @@ https://github.com/TarakaYalakala<br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarakaYalakala&theme=tokyonight&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarakaYalakala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
 
