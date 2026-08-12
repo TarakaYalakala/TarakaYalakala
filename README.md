@@ -22,6 +22,4 @@ https://github.com/TarakaYalakala<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taraka-y-aa3624255/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23695937/taraka-yalakala)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TarakaYalakala)](...)
-
 
